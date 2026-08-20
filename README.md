@@ -12,7 +12,6 @@ Reglas que use para poder programar las funciones de cada panel:
     - txt → TextBox
     - btn → Button
     - rdb → RadioButton
-    - grp → GroupBox
     
   4.Los nombres deben indicar claramente la función del control.
   
