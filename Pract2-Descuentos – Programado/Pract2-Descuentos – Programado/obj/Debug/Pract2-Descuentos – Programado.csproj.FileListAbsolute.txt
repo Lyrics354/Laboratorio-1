@@ -1,0 +1,10 @@
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\bin\Debug\Pract2-Descuentos – Programado.exe.config
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\bin\Debug\Pract2-Descuentos – Programado.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\bin\Debug\Pract2-Descuentos – Programado.pdb
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2-Descuentos – Programado.csproj.AssemblyReference.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2_Descuentos___Programado.Form1.resources
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2_Descuentos___Programado.Properties.Resources.resources
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2-Descuentos – Programado.csproj.GenerateResource.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2-Descuentos – Programado.csproj.CoreCompileInputs.cache
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2-Descuentos – Programado.exe
+C:\Users\wuwil\OneDrive - Universidad Tecnológica de Panamá\HPA III\C#\Pract2-Descuentos – Programado\Pract2-Descuentos – Programado\obj\Debug\Pract2-Descuentos – Programado.pdb
